@@ -1,0 +1,21 @@
+*{
+  margin: 0%;
+}
+.nome{
+  color: black;
+  font-size: 50px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  margin-bottom: 10px;
+}
+.funcao{
+  color: grey;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+
+.ideais {
+  display: inline-block;
+}
+
